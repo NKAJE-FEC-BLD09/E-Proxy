@@ -1,0 +1,19 @@
+{
+  "name": "e-proxy",
+  "version": "1.0.0",
+  "description": "FEC Proxy Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NKAJE-FEC-BLD09/E-Proxy.git"
+  },
+  "author": "Ethan Parent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NKAJE-FEC-BLD09/E-Proxy/issues"
+  },
+  "homepage": "https://github.com/NKAJE-FEC-BLD09/E-Proxy#readme"
+}
